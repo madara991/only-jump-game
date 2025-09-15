@@ -14,7 +14,7 @@ features:
 4- physics movement flexible
 
 Preview video
-<img width="1024" height="1024" alt="ChatGPT Image 23 يوليو 2025، 11_05_57 م" src="https://github.com/user-attachments/assets/63d8c503-1861-4904-8bc3-1df9e869d523" />
+<img width="512" height="512" alt="ChatGPT Image 23 يوليو 2025، 11_05_57 م" src="https://github.com/user-attachments/assets/63d8c503-1861-4904-8bc3-1df9e869d523" />
 
 https://github.com/user-attachments/assets/dae69b96-cbd2-496f-b4c9-7ef2caecc93d
 
